@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, sports
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me electricfilms2021@gmail.com
+- 📫 How to reach me ...
 
 <!---
 tcellcode/tcellcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
