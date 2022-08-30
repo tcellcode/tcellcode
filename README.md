@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tcellcode
 - 👀 I’m interested in coding, gaming, sports
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
